@@ -1,7 +1,7 @@
 # Power-BI_Purchase-order-analysis-
 
 # Raw data & data preprocessing
-We have four tables, sales data, product data, store data, and employee data. We need to remove personal identifying information from data first (deidentification). We use python to achieve so. 
+We have four tables, sales data, product data, store data, and employee data. We need to remove personally identifying information from data first (deidentification). We use python to achieve so. 
 
 ![image](https://user-images.githubusercontent.com/58899897/196028907-2ebc7335-3308-40d6-bacb-79c144d70630.png)
 
@@ -33,20 +33,20 @@ Some details of the dashboard
 
 ![image](https://user-images.githubusercontent.com/58899897/196031759-77c2d049-b4cd-419c-89f7-cec8be184e28.png)
 
-We use bar chart to show the total sale by store
+We use a bar chart to show the total sale by each store
 
 ![image](https://user-images.githubusercontent.com/58899897/196031793-1297dc8c-b7d1-4132-9d75-b1657ff24f15.png)
 
-We use line chart to show the trend of total sales
+We use a line chart to show the trend in total sales
 
 ![image](https://user-images.githubusercontent.com/58899897/196031812-76348e1c-2893-483b-8840-d4d19768ea45.png)
 
-We use map to visualize the salee by store. The bubble size depends on the total sales.
+We use a map to visualize the sales by store. The bubble size depends on the total sales.
 
 ![image](https://user-images.githubusercontent.com/58899897/196031852-f6a8bea5-4522-4c40-ab16-b38d73cd901f.png)
 
-We use bar chart to visualize the achievement rate of salesperson.
+We use a bar chart to visualize the achievement rate of salesperson.
 
 ![image](https://user-images.githubusercontent.com/58899897/196031899-f2bd0ab9-b8e4-42f7-bd2c-586ee9aa02ee.png)
 
-We use stacked bar chart to visualize the contribution of each product
+We use a stacked bar chart to visualize the contribution of each product
